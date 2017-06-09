@@ -1,0 +1,28 @@
+doctype html
+html
+  head
+    title NodeMailer
+    style.
+      body{
+      background-color:rgb(38, 39, 102);
+      }
+      form{
+      width:400px;
+      border:1px solid black;
+      background-color:rgba(244, 247, 246, 0.6);
+      margin:100px auto;
+      padding:50px;
+      }
+  body
+    div
+      form(method='post', action='form/send')
+        center
+          b Name
+          input(type='text', name='name')
+        br
+        center
+          b Email
+          input(type='email', name='email')
+        br
+        center
+          button Send me mail

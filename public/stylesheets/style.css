@@ -1,0 +1,15 @@
+			body{
+				background-color:rgb(38, 39, 102);
+			}
+			a{
+				text-decoration:none;
+			}
+			h1, h3{
+				color:rgb(38, 39, 102);
+				padding:30px;
+			}
+			div{
+				background-color:rgba(244, 247, 246, 0.6);
+				width:300px;
+				margin:50px auto;
+			}
