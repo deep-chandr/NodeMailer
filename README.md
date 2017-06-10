@@ -6,3 +6,4 @@ Note:
 2. While creating the server use 'npm start' in your command prompt.
 3. If you are not a regular node js user , make sure to install all the required modules before running the application. 
 4. The important part of the code is in app.js file and in the router folder(form.js and index.js).
+5. You must be logged in from your into the gmail account simultaneously.
